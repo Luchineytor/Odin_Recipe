@@ -1,0 +1,25 @@
+.center{
+    text-align: center;
+}
+
+.list{
+    text-align: left;
+    background-color: lemonchiffon;
+}
+#mjt{
+    margin-left: 150px;
+    margin-right: 100px;
+}
+.header{
+    background-color: aqua;
+    margin-left: 200px;
+    margin-right: 150px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
