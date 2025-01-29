@@ -6,6 +6,7 @@
     text-align: left;
     background-color: lemonchiffon;
 }
+
 .header{
     background-color: aqua;
     margin-left: 200px;
@@ -29,3 +30,4 @@
     color: inherit; /* Inherit text color */
     background-color: lemonchiffon;
 }
+
